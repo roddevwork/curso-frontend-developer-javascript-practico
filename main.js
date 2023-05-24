@@ -53,6 +53,43 @@ productList.push({
   image:
     'https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=600',
 });
+productList.push({
+  name: 'Bike',
+  price: 120,
+  image:
+    'https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+});
+productList.push({
+  name: 'Reloj',
+  price: 60,
+  image:
+    'https://images.pexels.com/photos/1198264/pexels-photo-1198264.jpeg?auto=compress&cs=tinysrgb&w=600',
+});
+productList.push({
+  name: 'Compu',
+  price: 620,
+  image:
+    'https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=600',
+});
+productList.push({
+  name: 'Bike',
+  price: 120,
+  image:
+    'https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+});
+productList.push({
+  name: 'Reloj',
+  price: 60,
+  image:
+    'https://images.pexels.com/photos/1198264/pexels-photo-1198264.jpeg?auto=compress&cs=tinysrgb&w=600',
+});
+productList.push({
+  name: 'Compu',
+  price: 620,
+  image:
+    'https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=600',
+});
+
 // .Funcion renderizar productos
 function renderProdcts(array) {
   for (product of array) {
